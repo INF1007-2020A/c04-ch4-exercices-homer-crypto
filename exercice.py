@@ -7,7 +7,7 @@ def is_even_len(string: str) -> bool:
     if x == type(int):
         print("la longueur est pair (vrai)").
         return True
-        else:
+    else:
         print("la longueur est impair (faux)")
         return False
 
