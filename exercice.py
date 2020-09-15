@@ -4,7 +4,7 @@
 
 def is_even_len(string: str) -> bool:
     x = len(string)/2 
-    if x == type(int):
+    result if x == type(int):
         print("la longueur est pair (vrai)")
     else:
         print("la longueur est impair (faux)")
@@ -16,7 +16,7 @@ def remove_third_char(string: str) -> str:
         print(string[i])
     for c in range (3, 999999999999999999999999, 0):
         print(string[c])
-    pass
+    return
 
 
 def replace_char(string: str, old_char: str, new_char: str) -> str:
