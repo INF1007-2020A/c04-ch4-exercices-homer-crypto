@@ -12,7 +12,8 @@ def is_even_len(string: str) -> bool:
 
 
 def remove_third_char(string: str) -> str:
-    for string in tsn
+    for string in range(0,3,0):
+        print:
     pass
 
 
