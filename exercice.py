@@ -18,8 +18,6 @@ def remove_third_char(string: str) -> str:
 
 def replace_char(string: str, old_char: str, new_char: str) -> str:
     
-    end = new_char + string
-    return begin
         
 
 def get_number_of_char(string: str, char: str) -> int:
