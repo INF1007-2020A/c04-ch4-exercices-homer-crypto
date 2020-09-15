@@ -15,7 +15,7 @@ def remove_third_char(string: str) -> str:
     for i in range(0, 3, 1):
         print(string[i])
     for c in range (3, 999999999999999999999999, 0):
-        print(string[i])
+        print(string[c])
     pass
 
 
