@@ -6,10 +6,10 @@ def is_even_len(string: str) -> bool:
     x = len(string)/2 
     if x == type(int):
         print("la longueur est pair (vrai)").
-        return true
+        return True
     else:
         print("la longueur est impair (faux)")
-    return
+        return
 
 
 def remove_third_char(string: str) -> str:
