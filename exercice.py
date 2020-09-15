@@ -6,9 +6,7 @@ def is_even_len(string: str) -> bool:
     x = len(string)/2 
     if x == type(int):
         return True
-    else:
-        print("la longueur est impair (faux)")
-        return False
+    return False
 
 
 def remove_third_char(string: str) -> str:
