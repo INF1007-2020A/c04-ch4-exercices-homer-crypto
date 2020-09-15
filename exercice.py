@@ -8,7 +8,7 @@ def is_even_len(string: str) -> bool:
         print("la longueur est pair (vrai)")
     if x == float:
         print("la longueur est impair (faux)")
-    pass
+    return 
 
 
 def remove_third_char(string: str) -> str:
