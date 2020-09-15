@@ -14,7 +14,7 @@ def is_even_len(string: str) -> bool:
 def remove_third_char(string: str) -> str:
     for i in range(0, 3, 1):
         print(string[i])
-    for i in range (3,)
+    for i in range (3, 999999999999999999999999, 0)
     pass
 
 
